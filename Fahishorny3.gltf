@@ -1,0 +1,502 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 415524,
+            "type": "VEC3",
+            "max": [
+                0.07372859120368958,
+                0.18593020737171174,
+                0.10807449370622635
+            ],
+            "min": [
+                -0.09995080530643463,
+                9.000000034120603e-8,
+                -0.04779044911265373
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 415524,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 415524,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 415524,
+            "type": "SCALAR",
+            "max": [
+                415523.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 36420,
+            "type": "VEC3",
+            "max": [
+                0.44728758931159975,
+                0.09305664151906967,
+                0.0
+            ],
+            "min": [
+                -0.4453832507133484,
+                -0.18342188000679017,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 36420,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 36420,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 36420,
+            "type": "SCALAR",
+            "max": [
+                36419.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 10100,
+            "type": "VEC3",
+            "max": [
+                0.059109218418598178,
+                0.23597079515457154,
+                0.058992598205804828
+            ],
+            "min": [
+                -0.059109218418598178,
+                -0.00046608998673036695,
+                -0.05899262800812721
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 10100,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 10100,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 15000,
+            "type": "SCALAR",
+            "max": [
+                10099.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 4986288,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4986288,
+            "byteLength": 4986288,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 9972576,
+            "byteLength": 3324192,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 13296768,
+            "byteLength": 1662096,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 14958864,
+            "byteLength": 437040,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 15395904,
+            "byteLength": 437040,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 15832944,
+            "byteLength": 291360,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 16124304,
+            "byteLength": 145680,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 16269984,
+            "byteLength": 121200,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 16391184,
+            "byteLength": 121200,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 16512384,
+            "byteLength": 80800,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 16593184,
+            "byteLength": 60000,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 16653184,
+            "uri": "Fahishorny3_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00007866931991884485,
+                "yfov": 0.6024156808853149,
+                "zfar": 4.326812267303467,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "roughness",
+            "uri": "Fahishorny3_images/roughness.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.830769956111908,
+                    0.7304608821868897,
+                    0.45641106367111208,
+                    1.0
+                ],
+                "metallicRoughnessTexture": {
+                    "index": 0
+                }
+            },
+            "name": "Brass",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6172069907188416,
+                    0.6172069907188416,
+                    0.6172069907188416,
+                    1.0
+                ],
+                "roughnessFactor": 0.02199999988079071
+            },
+            "name": "Metal",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6100000143051148
+            },
+            "alphaMode": "BLEND",
+            "name": "Wax",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Splash 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Splash",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Splash 3",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Text",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "Capsule",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                -0.03763217851519585,
+                0.0895303413271904,
+                1.1389111280441285
+            ],
+            "rotation": [
+                0.079160675406456,
+                -0.014575236476957798,
+                0.0011575431562960148,
+                0.9967546463012695
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                -2.354250767666599e-7
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                7.602445125579834
+            ],
+            "name": "Fah_is Horny"
+        },
+        {
+            "translation": [
+                -0.4405096769332886,
+                0.1621536761522293,
+                -0.16433483362197877
+            ],
+            "scale": [
+                0.6885803937911987,
+                0.6885803937911987,
+                0.6885803937911987
+            ],
+            "mesh": 0,
+            "name": "Splash 2"
+        },
+        {
+            "translation": [
+                -0.018710708245635034,
+                0.33529043197631838,
+                -0.21993480622768403
+            ],
+            "rotation": [
+                0.3338068723678589,
+                0.0,
+                0.0,
+                0.9426414966583252
+            ],
+            "scale": [
+                1.9788507223129273,
+                1.9788504838943482,
+                1.978850245475769
+            ],
+            "mesh": 1,
+            "name": "Splash"
+        },
+        {
+            "translation": [
+                0.3963428735733032,
+                0.0991179570555687,
+                0.08010417968034744
+            ],
+            "scale": [
+                1.5325249433517457,
+                1.5325249433517457,
+                1.5325249433517457
+            ],
+            "mesh": 2,
+            "name": "Splash 3"
+        },
+        {
+            "translation": [
+                -0.0399092473089695,
+                0.18342188000679017,
+                -0.09417087584733963
+            ],
+            "mesh": 3,
+            "name": "Text"
+        },
+        {
+            "translation": [
+                -0.37932947278022768,
+                0.10539114475250244,
+                0.2866384983062744
+            ],
+            "rotation": [
+                0.007574394810944796,
+                0.042956698685884479,
+                0.1734829992055893,
+                0.9838704466819763
+            ],
+            "scale": [
+                1.0000001192092896,
+                1.7372751235961915,
+                1.000000238418579
+            ],
+            "mesh": 4,
+            "name": "Capsule"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                6
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "roughness",
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "scene": 0,
+    "extensions": {
+        "KHR_xmp": {
+            "@context": {
+                "dc": "http://purl.org/dc/elements/1.1/"
+            },
+            "packets": [
+                {
+                    "dc:date": "2021-03-19T23:29:20.951+01:00",
+                    "dc:format": "model/gltf+json",
+                    "dc:title": "Fahishorny2.dn",
+                    "xmp:CreatorTool": "Adobe Dimension"
+                }
+            ]
+        }
+    },
+    "extensionsUsed": [
+        "KHR_xmp"
+    ]
+}
