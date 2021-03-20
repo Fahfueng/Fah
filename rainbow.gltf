@@ -1,0 +1,479 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3",
+            "max": [
+                0.09999999403953552,
+                0.19999998807907105,
+                0.09999999403953552
+            ],
+            "min": [
+                -0.09999999403953552,
+                0.0,
+                -0.09999999403953552
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 13536,
+            "type": "SCALAR",
+            "max": [
+                2398.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 2926,
+            "type": "VEC3",
+            "max": [
+                0.886423647403717,
+                0.5277484655380249,
+                0.26391395926475527
+            ],
+            "min": [
+                -0.8864234685897827,
+                0.0,
+                -0.26391395926475527
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 2926,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 2926,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 9144,
+            "type": "SCALAR",
+            "max": [
+                2925.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 17739,
+            "type": "VEC3",
+            "max": [
+                0.8572372198104858,
+                0.846645176410675,
+                1.4580068588256837
+            ],
+            "min": [
+                -0.8572372198104858,
+                0.0,
+                0.23617364466190339
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 17739,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 17739,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 68094,
+            "type": "SCALAR",
+            "max": [
+                17738.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 28788,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 57576,
+            "byteLength": 19192,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 76768,
+            "byteLength": 54144,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 130912,
+            "byteLength": 35112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 166024,
+            "byteLength": 35112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 201136,
+            "byteLength": 23408,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 224544,
+            "byteLength": 36576,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 261120,
+            "byteLength": 212868,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 473988,
+            "byteLength": 212868,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 686856,
+            "byteLength": 141912,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 828768,
+            "byteLength": 272376,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1101144,
+            "uri": "rainbow_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00016526294348295778,
+                "yfov": 0.6024156808853149,
+                "zfar": 9.089462280273438,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "normal_image_texture",
+            "uri": "rainbow_images/normal_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "texture45195",
+            "uri": "rainbow_images/texture45195.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_image",
+            "uri": "rainbow_images/image_image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "plastic_hailed_grain_thin_spread_glossy_01_normal",
+            "uri": "rainbow_images/plastic_hailed_grain_thin_spread_glossy_01_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image",
+            "uri": "rainbow_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "ice_normal",
+            "uri": "rainbow_images/ice_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.7605246305465698,
+                    0.3277781307697296,
+                    1.0
+                ],
+                "roughnessFactor": 0.10980392247438431
+            },
+            "normalTexture": {
+                "index": 0
+            },
+            "name": "Clean Gold",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicRoughnessTexture": {
+                    "index": 2
+                }
+            },
+            "normalTexture": {
+                "index": 3
+            },
+            "name": "Fine Grain Plastic",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.4100000262260437
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 4
+                }
+            },
+            "normalTexture": {
+                "index": 5
+            },
+            "alphaMode": "BLEND",
+            "name": "Ice",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Vector Smart Object 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "Vector Smart Object",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5015859603881836,
+                -0.09849559515714646,
+                -1.0074132680892945
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                2.00136399269104,
+                1.591524600982666,
+                -0.7375941276550293
+            ],
+            "rotation": [
+                -2.749414029779018e-8,
+                0.6220778226852417,
+                -8.301196885440732e-8,
+                0.7829554080963135
+            ],
+            "scale": [
+                4.719109535217285,
+                4.71911096572876,
+                4.719110012054443
+            ],
+            "mesh": 0,
+            "name": "Sphere"
+        },
+        {
+            "translation": [
+                -3.0502675940624615e-7,
+                0.16336902976036073,
+                3.0517577442878976e-7
+            ],
+            "rotation": [
+                0.0,
+                0.2588190734386444,
+                0.0,
+                0.9659258127212524
+            ],
+            "scale": [
+                3.5023393630981447,
+                3.5023391246795656,
+                3.5023388862609865
+            ],
+            "mesh": 1,
+            "name": "Vector Smart Object 2"
+        },
+        {
+            "translation": [
+                -0.24736475944519044,
+                0.0,
+                -1.2014890909194947
+            ],
+            "rotation": [
+                0.0,
+                0.2503800392150879,
+                0.0,
+                0.9681476354598999
+            ],
+            "mesh": 2,
+            "name": "Vector Smart Object"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "normal_image_texture",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "texture45195",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "image_image",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "plastic_hailed_grain_thin_spread_glossy_01_material::normal::image",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "image",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "ice_material::normal::image",
+            "sampler": 5,
+            "source": 5
+        }
+    ],
+    "scene": 0
+}
