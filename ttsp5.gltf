@@ -1,0 +1,460 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3",
+            "max": [
+                0.09999999403953552,
+                0.19999998807907105,
+                0.09999999403953552
+            ],
+            "min": [
+                -0.09999999403953552,
+                0.0,
+                -0.09999999403953552
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 13536,
+            "type": "SCALAR",
+            "max": [
+                2398.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 461436,
+            "type": "VEC3",
+            "max": [
+                0.5282201766967773,
+                0.10542020201683045,
+                0.004046790301799774
+            ],
+            "min": [
+                -0.013860030099749565,
+                -0.03486006706953049,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 461436,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 461436,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 461436,
+            "type": "SCALAR",
+            "max": [
+                461435.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 28788,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 57576,
+            "byteLength": 19192,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 76768,
+            "byteLength": 54144,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 130912,
+            "byteLength": 5537232,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5668144,
+            "byteLength": 5537232,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 11205376,
+            "byteLength": 3691488,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 14896864,
+            "byteLength": 1845744,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 16742608,
+            "uri": "ttsp5_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "rainbow_anodized_metal_baseColor",
+            "uri": "ttsp5_images/rainbow_anodized_metal_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image3",
+            "uri": "ttsp5_images/image3.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "roughness_image_texture",
+            "uri": "ttsp5_images/roughness_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture",
+            "uri": "ttsp5_images/normal_image_texture.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.6399999856948853
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "emissiveTexture": {
+                "index": 0
+            },
+            "emissiveFactor": [
+                0.7799999713897705,
+                0.7799999713897705,
+                0.7799999713897705
+            ],
+            "alphaMode": "BLEND",
+            "name": "Rainbow Anodized Metal",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.4399999976158142
+                ],
+                "metallicFactor": 0.3100000023841858,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "Glass",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 2
+                }
+            },
+            "normalTexture": {
+                "index": 3
+            },
+            "name": "Glossy Paper 4",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "TextMesh#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                1.4364888668060303,
+                0.10003598779439926,
+                0.25904855132102969
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -0.04508781433105469,
+                0.006047649309039116,
+                0.05317623168230057
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -0.3826834261417389,
+                0.9238795042037964
+            ],
+            "scale": [
+                0.14046858251094819,
+                0.14046858251094819,
+                0.14046868681907655
+            ],
+            "mesh": 0,
+            "name": "Sphere 7"
+        },
+        {
+            "translation": [
+                0.031240157783031465,
+                0.051429860293865207,
+                -0.092258021235466
+            ],
+            "scale": [
+                0.291606068611145,
+                0.291606068611145,
+                0.291606068611145
+            ],
+            "mesh": 1,
+            "name": "Sphere 10"
+        },
+        {
+            "translation": [
+                -0.03778572008013725,
+                0.0,
+                0.10643304884433747
+            ],
+            "scale": [
+                0.14985598623752595,
+                0.14985598623752595,
+                0.14985598623752595
+            ],
+            "mesh": 2,
+            "name": "Sphere 8"
+        },
+        {
+            "translation": [
+                -0.03778572008013725,
+                0.001987285679206252,
+                0.07954522967338562
+            ],
+            "scale": [
+                0.22615042328834535,
+                0.22615042328834535,
+                0.22615042328834535
+            ],
+            "mesh": 3,
+            "name": "Sphere 9"
+        },
+        {
+            "translation": [
+                -0.00512275705114007,
+                0.03383241593837738,
+                -0.1067797988653183
+            ],
+            "rotation": [
+                0.0,
+                -0.7071067690849304,
+                0.0,
+                0.7071067690849304
+            ],
+            "scale": [
+                0.36288049817085268,
+                0.36288052797317507,
+                1.1230342388153077
+            ],
+            "mesh": 4,
+            "name": "Text"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "rainbow_anodized_metal_material::baseColor::image3",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image3",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "roughness_image_texture",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 3,
+            "source": 3
+        }
+    ],
+    "scene": 0
+}
