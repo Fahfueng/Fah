@@ -1,0 +1,418 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 5940,
+            "type": "VEC3",
+            "max": [
+                0.36956295371055605,
+                0.039890434592962268,
+                0.369479775428772
+            ],
+            "min": [
+                -0.3695405423641205,
+                0.00010956286132568493,
+                -0.12031790614128113
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 5940,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 5940,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 5940,
+            "type": "SCALAR",
+            "max": [
+                5939.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 40126,
+            "type": "VEC3",
+            "max": [
+                1.6466307640075684,
+                2.2898356914520265,
+                1.1449178457260132
+            ],
+            "min": [
+                -1.6466318368911744,
+                0.0,
+                -1.1449182033538819
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 40126,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 40126,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 133926,
+            "type": "SCALAR",
+            "max": [
+                40125.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 71280,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 71280,
+            "byteLength": 71280,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 142560,
+            "byteLength": 47520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 190080,
+            "byteLength": 23760,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 213840,
+            "byteLength": 481512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 695352,
+            "byteLength": 481512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1176864,
+            "byteLength": 321008,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1497872,
+            "byteLength": 535704,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 2033576,
+            "uri": "Untitled_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00003945323624066077,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.1699278354644777,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "texture119720",
+            "uri": "Untitled_images/texture119720.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image15",
+            "uri": "Untitled_images/image15.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "damaged_glass_normal",
+            "uri": "Untitled_images/damaged_glass_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image_image",
+            "uri": "Untitled_images/image_image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Cloud.H03",
+            "uri": "Untitled_images/Cloud.H03.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.9046613574028015,
+                    0.07421357929706574,
+                    0.2704978585243225,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                -0.017452405765652658,
+                                0.00015230484132189304
+                            ],
+                            "rotation": 0.01745329238474369,
+                            "scale": [
+                                1,
+                                1
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                0.17251865565776826,
+                                -0.0031636522617191078
+                            ],
+                            "rotation": 0.01745329238474369,
+                            "scale": [
+                                1,
+                                1
+                            ]
+                        }
+                    }
+                }
+            },
+            "normalTexture": {
+                "index": 2,
+                "extensions": {
+                    "KHR_texture_transform": {
+                        "offset": [
+                            -0.01867407374083996,
+                            -0.06983703374862671
+                        ],
+                        "rotation": 0.01745329238474369,
+                        "scale": [
+                            1,
+                            1
+                        ]
+                    }
+                }
+            },
+            "alphaMode": "MASK",
+            "name": "Damaged Glass",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "roughnessFactor": 0.20000000298023225
+            },
+            "normalTexture": {
+                "index": 4,
+                "extensions": {
+                    "KHR_texture_transform": {
+                        "offset": [
+                            0,
+                            -0.20000000298023225
+                        ],
+                        "rotation": 0,
+                        "scale": [
+                            1,
+                            1
+                        ]
+                    }
+                }
+            },
+            "alphaMode": "BLEND",
+            "name": "Glitter",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Ebene 13",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                -1.6342798471450806,
+                0.0993945300579071,
+                0.6184134483337402
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -0.4514271318912506,
+                0.23151278495788575,
+                -0.015458564274013043
+            ],
+            "rotation": [
+                -0.14693231880664826,
+                -0.6058931946754456,
+                -0.5608473420143127,
+                0.5447518229484558
+            ],
+            "scale": [
+                1.4854623079299927,
+                1.4854623079299927,
+                1.4854624271392823
+            ],
+            "mesh": 0,
+            "name": "Torus 15"
+        },
+        {
+            "translation": [
+                0.4603745937347412,
+                0.19322726130485536,
+                0.2532336413860321
+            ],
+            "rotation": [
+                0.0,
+                0.20791171491146089,
+                0.0,
+                0.978147566318512
+            ],
+            "scale": [
+                0.20202429592609406,
+                0.20202431082725526,
+                0.026648571714758874
+            ],
+            "mesh": 1,
+            "name": "Ebene 13"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "texture119720",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image15",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "damaged_glass_material::normal::image16",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "image_image",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "texture191318",
+            "sampler": 4,
+            "source": 4
+        }
+    ],
+    "scene": 0,
+    "extensionsUsed": [
+        "KHR_texture_transform"
+    ],
+    "extensionsRequired": [
+        "KHR_texture_transform"
+    ]
+}
